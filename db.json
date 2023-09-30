@@ -1,0 +1,1459 @@
+{
+  "brands": [
+    {
+      "brand_id": "NIKE"
+    },
+    {
+      "brand_id": "ADIDAS"
+    },
+    {
+      "brand_id": "CONVERSE"
+    },
+    {
+      "brand_id": "VANS"
+    },
+    {
+      "brand_id": "PUMA"
+    }
+  ],
+  "shoes": [
+    {
+      "name": "GIÀY SUPERSTAR",
+      "brand_id": "ADIDAS",
+      "price": 2300000,
+      "type":"Sneaker",
+      "discount_id": 10,
+      "img": "af02d704cd834e08a853ae8b010e7e4d_9366-removebg-preview.png",
+      "imgs": [
+        "08cf4be9f48943f1af3cae8b010ec055_9366.webp",
+        "aaf8d97e1d6f46388ec4ae8b010eaa15_9366.webp",
+        "8852c9e218d14d188767ae8b010ed562_9366.webp"
+      ],
+      "description": "Hãy nhớ đến tất cả các huyền thoại đã từng xỏ chân vào đôi giày adidas Superstar này trong hàng thế kỷ qua. Các chuyên gia bóng rổ. Những biểu tượng hip hop. Những người tạo ra xu hướng. Và bạn nữa. Danh sách vẫn đang được viết thêm.",
+      "inventory": [
+        {
+          "size": "37",
+          "quantity": 75
+        },
+        {
+          "size": "38",
+          "quantity": 55
+        },
+        {
+          "size": "39",
+          "quantity": 66
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity": 88
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        },
+        {
+          "size": "36",
+          "quantity": 0
+        }
+      ],
+      "BC_color": "color_12",
+      "id": 49
+    },
+    {
+      "name": "GIÀY STAN SMITH",
+      "brand_id": "ADIDAS",
+      "price": 2500000,
+      "type":"Sneaker",
+      "discount_id": 20,
+      "img": "68ae7ea7849b43eca70aac1e00f5146d_9366-removebg-preview.png",
+      "imgs": [
+        "ac706d8555244a6e8ea7ac1e00f521d1_9366.webp",
+        "72a38538fd684788b5d9ac1e00f52860_9366.webp",
+        "79e5a7b748c54cbf8c57ac1e00f53669_9366.webp",
+        "f86168171d2a4644a8eeac1e00f52f85_9366.webp",
+        "d5afac8099674bfea559ac1e00f53d7c_9366.webp",
+        "e53b9a57b0a745be924bac1e00f54427_9366.webp"
+      ],
+      "description": "Vẻ đẹp kinh điển. Phong cách vốn dĩ. Đa năng hàng ngày. Suốt hơn 50 năm qua và chưa dừng ở đó, giày adidas Stan Smith luôn giữ vững vị trí là một biểu tượng. Đôi giày này là phiên bản cải biên mới mẻ, là một phần cam kết của adidas hướng tới chỉ sử dụng polyester tái chế bắt đầu từ năm 2024. Với thân giày vegan và đế ngoài làm từ cao su phế liệu, đôi giày này vẫn mang phong cách đầy tính biểu tượng, đồng thời thân thiện với môi trường.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 44
+        },
+        {
+          "size": "37",
+          "quantity": 38
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 66
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_3",
+      "id": 50
+    },
+    {
+      "name": "GIÀY ULTRA 4D",
+      "brand_id": "ADIDAS",
+      "price": 6000000,
+      "type":"Sneaker",
+      "discount_id": 10,
+      "img": "c90617e52fd34ecc83e8aed70159a1d3_9366-removebg-preview.png",
+      "imgs": [
+        "82f12aa40f134a50904aaed70159c0d3_9366.webp",
+        "Giay_Ultra_4D_DJen_GY5913_02_standard.jpg",
+        "3c79cead048c467287e7aed70159ba84_9366.webp"
+      ],
+      "description": "Mỗi ngày mới là một cơ hội để cải thiện: những kỳ vọng, cách nhìn, và buổi chạy của bạn. Giày Ultra 4D được mã hóa nhằm giúp bạn chinh phục mục tiêu, bắt đầu với đế giữa 4D sử dụng công nghệ in 3D cho sải bước ổn định. Lớp đệm bền bỉ giúp bạn chinh phục cự ly, cùng thân giày adidas PRIMEKNIT ôm chân và nâng đỡ từng sải bước.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity":0
+        },
+        {
+          "size": "37",
+          "quantity": 44
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 66
+        },
+        {
+          "size": "40",
+          "quantity": 77
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_5",
+      "id": 51
+    },
+    {
+      "name": "GIÀY CHẠY BỘ ADIDAS 4DFWD 2",
+      "brand_id": "ADIDAS",
+      "price": 5500000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "4d0fe8aff59b4e45866aaed801395e05_9366-removebg-preview.png",
+      "imgs": [
+        "2981463b243648ab8c8faed801396fa9_9366.webp",
+        "568b3748bb964f01820daed8013978ff_9366.webp",
+        "04fd4d8aea474decb8d5aed801399c57_9366.webp",
+        "b72bbf0cbcfe489aadd4aed801399276_9366.webp",
+        "e3eaf894c25743358cdaaed801398064_9366.webp"
+      ],
+      "description": "adidas 4DFWD 2 tái định nghĩa chuyển động về phía trước bằng cách sử dụng công nghệ cải tiến đột phá, độc đáo tạo nên đế giữa in 3D kết hợp cùng cấu trúc thân giày mới mẻ và đế ngoài Continental cải thiện độ bám. Trong mỗi sải bước, đế giữa adidas 4DFWD 2 nén về phía trước, giảm lực hãm và chuyển hóa năng lượng tác động thành chuyển động về phía trước. Thành quả là sải bước mượt mà với ít những khoảng ngắt nghỉ hơn. Đế ngoài Continental bằng cao su tạo độ bám trên bề mặt khô ráo cũng như ẩm ướt giúp bạn vững bước trong mọi điều kiện thời tiết, cùng thân giày adidas PRIMEKNIT+ ôm chân theo cấu trúc mới giúp hỗ trợ chuyển động.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 7
+        },
+        {
+          "size": "37",
+          "quantity": 53
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 88
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_df",
+      "id": 52
+    },
+    {
+      "name": "GIÀY NMD_R1",
+      "brand_id": "ADIDAS",
+      "price": 3600000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "ce08e439da2947a696b4aed70147f30a_9366-removebg-preview.png",
+      "imgs": [
+        "7d5270021df94c61a49aaed701482441_9366.webp",
+        "cdc4e96ebc4f416bb64caed7014801be_9366.webp",
+        "0343fdec4e424837ad14aed70148099d_9366.webp",
+        "c62370c2c6994494a2d7aed701481170_9366.webp",
+        "e10440de2204412f98adaed701481b5a_9366.webp"
+      ],
+      "description": "adidas NMD_R1 để giúp bạn chinh phục những thử thách và hành trình phiêu lưu mỗi ngày. Nhưng phiên bản này đồng thời cũng tôn vinh niềm đam mê thể thao trong bạn. Các gam màu tươi tắn gợi nhớ sắc áo của các đội tuyển bóng đá — để bạn có thể diện trên khán đài cũng như khi xuống phố. Đệm BOOST giúp đôi chân luôn thoải mái, bất kể bạn đang cổ vũ hết mình hay vận động thường ngày.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 45
+        },
+        {
+          "size": "37",
+          "quantity": 44
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 33
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity": 66
+        }
+      ],
+      "BC_color": "color_8",
+      "id": 53
+    },
+    {
+      "name": "GIÀY HARDEN VOL. 6",
+      "brand_id": "ADIDAS",
+      "price": 4000000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "195b8cd218f849fc9166ae7b012d370c_9366-removebg-preview.png",
+      "imgs": [
+        "Giay_Harden_Vol._6_Mau_vang_GV9586_02_standard_hover.jpg",
+        "18d21cba96224f1d9594ae7b012db59d_9366.webp",
+        "0bd3a79a57db4bbd93e4ae7b012ed020_9366.webp",
+        "14ae7a6a26774c19bce1ae7b012d8d4a_9366.webp",
+        "2a1a23f3ba7c460a95acae7b012e036e_9366.webp"
+      ],
+      "description": "Hãy tấn công khi đối thủ ít phòng bị nhất. Dẫn bóng tới rổ, nhảy ném bất ngờ và qua mặt hậu vệ — hệt như James Harden. Đôi giày bóng rổ adidas này sử dụng đệm BOOST hoàn trả năng lượng cần thiết từ lúc tiếng còi khai cuộc cất lên tới tận giây phút bù giờ cam go cuối cùng. Dây đai ở phần mũi giày và gót giày mang lại cảm giác cố định chắc chắn trong suốt trận đấu.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity":0
+        },
+        {
+          "size": "37",
+          "quantity": 43
+        },
+        {
+          "size": "38",
+          "quantity": 31
+        },
+        {
+          "size": "39",
+          "quantity": 55
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity": 65
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_9",
+      "id": 54
+    },
+    {
+      "name": "GIÀY HARDEN STEPBACK 3",
+      "brand_id": "ADIDAS",
+      "price": 2300000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "b18170774791461580f1ae6a0168c5af_9366-removebg-preview.png",
+      "imgs": [
+        "a412074991e74aee8d10ae6a0169166a_9366.webp",
+        "19c4306893194e719ca5ae6a0168ee02_9366.webp",
+        "15ba9e1ad1394421b5a7ae6a016a167f_9366.webp",
+        "ac4510f0d475446995e3ae6b0037de80_9366.webp",
+        "Giay_Harden_Stepback_3_mau_xanh_la_GZ7240_42_detail.jpg"
+      ],
+      "description": "Không có thứ vũ khí nào đáng sợ hơn cú step-back trong những trận đấu bóng rổ hiện đại, và không một ai làm được điều này tốt hơn James Harden. Đôi giày signature adidas này tôn vinh lối chơi sáng tạo của anh trên sân bóng rổ. Đế giữa Bounce đàn hồi mang đến cảm giác thoải mái trên từng sải bước, bất kể bạn đang rèn luyện kỹ năng xử lý bóng hay ném bóng từ khoảng cách xa. Lỗ xỏ dây giày bố trí hợp lý kết hợp cùng dây buộc và gót giày đúc cho cảm giác cố định.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 2
+        },
+        {
+          "size": "37",
+          "quantity": 24
+        },
+        {
+          "size": "38",
+          "quantity": 44
+        },
+        {
+          "size": "39",
+          "quantity":0
+        },
+        {
+          "size": "40",
+          "quantity": 33
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity": 53
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_1",
+      "id": 55
+    },
+    {
+      "name": "GIÀY NMD_R1",
+      "brand_id": "ADIDAS",
+      "price": 3600000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "450ad69997384d8e94a6aec500ed3e5d_9366-removebg-preview.png",
+      "imgs": [
+        "2ab5db8cd0224fccb038aec500ed474b_9366.webp",
+        "c3bd3efe586746a5bdb4aec500ed4f07_9366.webp",
+        "461affe51eb54e849a70aec500ed5f96_9366.webp",
+        "573df860037a4538a5ceaec500ed55cb_9366.webp",
+        "Giay_NMD_R1_trang_GX9531_41_detail.jpg",
+        "Giay_NMD_R1_trang_GX9531_42_detail.jpg"
+      ],
+      "description": "Phong cách giày chạy bộ dành cho hành trình khám phá mỗi ngày. Đôi giày adidas NMD_R1 này cập nhật thiết kế của đôi giày trainer nguyên bản phong cách thập niên 80 bằng khung má RPU phản quang. Thân giày bằng vải dệt kim co giãn ôm chân cho cảm giác thoải mái khi di chuyển. Quãng đường dài di chuyển mỗi ngày hay lề đường trơn trượt đều là chuyện nhỏ, nhờ đế giữa BOOST hoàn trả năng lượng và đế ngoài bằng cao su siêu bám.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity":0
+        },
+        {
+          "size": "37",
+          "quantity": 34
+        },
+        {
+          "size": "38",
+          "quantity": 35
+        },
+        {
+          "size": "39",
+          "quantity":0
+        },
+        {
+          "size": "40",
+          "quantity": 34
+        },
+        {
+          "size": "41",
+          "quantity": 23
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_7",
+      "id": 56
+    },
+    {
+      "name": "GIÀY HARDEN VOL. 6",
+      "brand_id": "ADIDAS",
+      "price": 4000000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "e09f13bce7614ef28d62adfe00058525_9366-removebg-preview.png",
+      "imgs": [
+        "d4a1051356204fc1ab34adfe0005a91f_9366.webp",
+        "72102fb53c024b8f97afadfe00038522_9366.webp",
+        "8c8273c174b3454a8a95adfe00035c98_9366.webp",
+        "3218a2c27ca748cabb00adfe00047f27_9366.webp",
+        "2829216069954e1e81cbadfe0003ac05_9366.webp",
+        "e5c12fe3543148cc97a3adfe000413aa_9366.webp"
+      ],
+      "description": "Hãy tấn công khi đối thủ ít phòng bị nhất. Dẫn bóng tới rổ, nhảy ném bất ngờ và qua mặt hậu vệ — hệt như James Harden. Đế giữa Boost hoàn trả năng lượng cần thiết, từ lúc tiếng còi khai cuộc cất lên tới tận giây phút bù giờ cam go cuối cùng. Dây đai ở phần mũi giày và gót giày mang lại cảm giác cố định chắc chắn trong suốt trận đấu.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 44
+        },
+        {
+          "size": "37",
+          "quantity": 12
+        },
+        {
+          "size": "38",
+          "quantity": 23
+        },
+        {
+          "size": "39",
+          "quantity": 235
+        },
+        {
+          "size": "40",
+          "quantity": 23
+        },
+        {
+          "size": "41",
+          "quantity": 34
+        },
+        {
+          "size": "42",
+          "quantity": 0 
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_6",
+      "id": 57
+    },
+    {
+      "id": 20230621134033284,
+      "name": "GIÀY SAMBA OG",
+      "brand_id": "ADIDAS",
+      "price": 3300000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "3bbecbdf584e40398446a8bf0117cf62_9366-removebg-preview.png",
+      "imgs": [
+        "3a8d5f9cb7444bd195f1a8bf01180e68_9366.webp",
+        "6cea1ecd4fee4337ab5da8bf011823ca_9366.webp",
+        "671c62b81c3448e980aca8bf01181a93_9366.webp",
+        "97cd0902ae2e402b895aa8bf0117f98f_9366.webp",
+        "b067d21288bc43ec8298a8bf01180400_9366.webp"
+      ],
+      "description": "Sinh ra trên sân bóng, đôi Samba là biểu tượng vượt thời gian của phong cách đường phố. Mẫu giày này giữ nguyên những nét đặc trưng với thân giày bằng da mềm và các chi tiết phủ ngoài bằng da lộn.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 100
+        },
+        {
+          "size": "37",
+          "quantity": 100
+        },
+        {
+          "size": "38",
+          "quantity": 100
+        },
+        {
+          "size": "39",
+          "quantity":0
+        },
+        {
+          "size": "40",
+          "quantity": 100
+        },
+        {
+          "size": "41",
+          "quantity": 100
+        },
+        {
+          "size": "42",
+          "quantity": 100
+        },
+        {
+          "size": "43",
+          "quantity": 100
+        }
+      ],
+      "BC_color": "color_df"
+    },
+    {
+      "id": 202306211748478,
+      "name": "GIÀY CAMPUS 00S",
+      "brand_id": "ADIDAS",
+      "price": 2600000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "a76716648b634481ba31af500104ce25_9366-removebg-preview.png",
+      "imgs": [
+        "11dafceeeb034d99950aaf49015814db_9366.webp",
+        "506681c25cee4ece9a6aaf500104dbb2_9366.webp",
+        "a93a651339a34d269115af500104f641_9366.webp",
+        "d7cac0147c614d428808af5001050224_9366.webp",
+        "dad2bda0dfc84132a787af5001050eb4_9366.webp"
+      ],
+      "description": "Dù ra mắt trên sân bóng rổ nhưng dòng giày adidas Campus đã nhanh chóng được ưa chuộng ở khắp mọi nơi. Ở phiên bản này, chúng tôi biến hóa kiểu dáng biểu tượng ấy theo một hướng mới và kết hợp các chất liệu, màu sắc và tỷ lệ thiết kế hiện đại. Thân giày bằng da cao cấp với lớp lót bằng vải dệt terry mềm mại, tất cả đặt trên đế giữa màu trắng ngà — mối liên kết đậm nét với di sản Campus.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 100
+        },
+        {
+          "size": "37",
+          "quantity": 100
+        },
+        {
+          "size": "38",
+          "quantity": 100
+        },
+        {
+          "size": "39",
+          "quantity": 100
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity": 100
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity": 100
+        }
+      ],
+      "BC_color": "color_12"
+    },
+    {
+      "id": 20230621214717630,
+      "name": "GIÀY SUPERSTAR BLISS",
+      "brand_id": "ADIDAS",
+      "price": 2600000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "Giay_Superstar_Be_H06192_06_standard-removebg-preview.png",
+      "imgs": [
+        "Giay_Superstar_Be_H06192_02_standard.jpg",
+        "Giay_Superstar_Be_H06192_04_standard.jpg",
+        "Giay_Superstar_Be_H06192_05_standard.jpg",
+        "Giay_Superstar_Be_H06192_41_detail.jpg",
+        "Giay_Superstar_Be_H06192_42_detail.jpg",
+        "1df5ebac0991453c843fafa500a43f55_9366.webp"
+      ],
+      "description": "Hướng về thiên nhiên trên từng sải bước. Đề cao các chất liệu có sẵn trong tự nhiên, đôi giày adidas Superstar này có thiết kế mềm mại, dịu mắt. Thân giày làm từ vải gai dầu, cùng đế ngoài bằng cao su tự nhiên và dây giày cotton hữu cơ. 3 Sọc kinh điển cực kỳ bắt mắt nhờ thiết kế đan móc tạo hiệu ứng thủ công độc đáo, với phối màu mang đậm dấu ấn của trào lưu văn hóa phản kháng thập niên 1970 tương phản với phong cách hiện đại. Lớp lót lyocell siêu mềm mại giúp đôi chân bạn luôn cảm thấy dễ chịu sau cả ngày dài.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 123
+        },
+        {
+          "size": "37",
+          "quantity": 123
+        },
+        {
+          "size": "38",
+          "quantity": 34
+        },
+        {
+          "size": "39",
+          "quantity":0
+        },
+        {
+          "size": "40",
+          "quantity": 125
+        },
+        {
+          "size": "41",
+          "quantity": 60
+        },
+        {
+          "size": "42",
+          "quantity": 100
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_16"
+    },
+    {
+      "id": 2023062214041922,
+      "name": "Nike Air Force 1 '07",
+      "brand_id": "NIKE",
+      "price": 2300000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "bg-removebg-preview.png",
+      "imgs": [
+        "120a31b0-efa7-41c7-9a84-87b1e56ab9c3.webp",
+        "a0a300da-2e16-4483-ba64-9815cf0598ac.webp",
+        "air-force-1-07-mens-shoes-jBrhbr.png"
+      ],
+      "description": "The radiance lives on in the Nike Air Force 1 ’07, the b-ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 100
+        },
+        {
+          "size": "37",
+          "quantity": 200
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 100
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity": 100
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_df"
+    },
+    {
+      "id": 20230622142052456,
+      "name": " Nike Dunk High Retro",
+      "brand_id": "NIKE",
+      "price": 2600000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "2a7691e4-bff6-423e-aa5e-7dc264114e34-removebg-preview.png",
+      "imgs": [
+        "37508763-01cf-4915-82c4-5747ca2b1572.webp",
+        "6665a505-388b-4f4a-b718-7dd6ef00a61a.webp",
+        "dunk-high-retro-mens-shoe-dTVTCk.png"
+      ],
+      "description": "Created for the hardwood but taken to the streets, the '80s b-ball icon returns with perfectly sheened overlays and original university colors. With its classic hoops design, the Nike Dunk High Retro channels '80s vintage back onto the streets while its padded, high-top collar adds an old-school look rooted in comfort.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity":0
+        },
+        {
+          "size": "37",
+          "quantity": 123
+        },
+        {
+          "size": "38",
+          "quantity": 121
+        },
+        {
+          "size": "39",
+          "quantity":0
+        },
+        {
+          "size": "40",
+          "quantity": 123
+        },
+        {
+          "size": "41",
+          "quantity": 333
+        },
+        {
+          "size": "42",
+          "quantity": 666
+        },
+        {
+          "size": "43",
+          "quantity": 666
+        }
+      ],
+      "BC_color": "color_6"
+    },
+    {
+      "id": 2023062214285685,
+      "name": "Air Jordan 1 Mid",
+      "brand_id": "NIKE",
+      "price": 2600000,
+      "type":"Sneaker",
+      "discount_id": 10,
+      "img": "0e7fc8f3-76b7-4631-b147-4dad4b1ff241-removebg-preview.png",
+      "imgs": [
+        "air-jordan-1-mid-shoes-X5pM09.png",
+        "air-jordan-1-mid-shoes-X5pM09 (1).png",
+        "air-jordan-1-mid-shoes-X5pM09.jpg"
+      ],
+      "description": "Inspired by the original AJ1, the Air Jordan 1 Mid offers fans a chance to follow in MJ's footsteps. Fresh color trims the clean, classic materials, imbuing modernity into a classic design.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 423
+        },
+        {
+          "size": "37",
+          "quantity": 123
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 300
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity": 200
+        },
+        {
+          "size": "43",
+          "quantity": 200
+        }
+      ],
+      "BC_color": "color_10"
+    },
+    {
+      "id": 20230704172540930,
+      "name": "Air Jordan 7 Retro",
+      "brand_id": "NIKE",
+      "price": 4300000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "b23ceacd-c912-4d0f-adc4-2c078e3bd3e9-removebg-preview.png",
+      "imgs": [
+        "03a8d2fc-8413-49e9-a3a6-989ccf9346f7.webp",
+        "23d5b0be-e0c7-4448-961b-57ccfa7678d9.webp",
+        "03a8d2fc-8413-49e9-a3a6-989ccf9346f7.webp",
+        "2ab5db8cd0224fccb038aec500ed474b_9366.webp",
+        "913219f9-160d-45a9-beb8-b57a2bc02a1f.webp"
+      ],
+      "description": "Inspired by the shoe originally worn by MJ during the '92 season and summer of basketball, the Air Jordan 7 Retro revives its championship legacy for a new generation of sneakerheads.\n\n",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 123
+        },
+        {
+          "size": "37",
+          "quantity": 0
+        },
+        {
+          "size": "38",
+          "quantity": 123
+        },
+        {
+          "size": "39",
+          "quantity": 123
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity": 123
+        },
+        {
+          "size": "42",
+          "quantity": 123
+        },
+        {
+          "size": "43",
+          "quantity": 0
+        }
+      ],
+      "BC_color": "color_10"
+    },
+    {
+      "id": 2023070417390228,
+      "name": "Air Jordan 1 Zoom CMFT 2 \"Valentines Day\"",
+      "brand_id": "NIKE",
+      "price": 2600000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "8707d947-b7b2-474d-9b46-623a2ef5658a-removebg-preview.png",
+      "imgs": [
+        "5c65104d-3769-4e35-bede-60bc9bf186bd.webp",
+        "335cd507-2aa9-4ce8-9fe7-0e32a46140f9.webp",
+        "538ea356-7cc6-432c-8619-90f437396a0f.webp",
+        "air-jordan-1-zoom-cmft-2-valentines-day-womens-shoes-1NmSPm.jpg"
+      ],
+      "description": "Anytime, anywhere, spread the love with some new J's this Valentines Day. From words of affirmation (\"Damn, those look good!\") to feelings of pure on-foot bliss (check out the lush velvet accents and springy Nike Zoom Air cushioning), these kicks know all the ways to make your heart go pitter-patter. The recessed Swoosh and updated collar bring a sweet look and feel to the classic design, and the richly textured leather is more decadent than a box of chocolates. Love yourself first—that's all we're saying.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 23
+        },
+        {
+          "size": "37",
+          "quantity": 100
+        },
+        {
+          "size": "38",
+          "quantity": 24
+        },
+        {
+          "size": "39",
+          "quantity": 0
+        },
+        {
+          "size": "40",
+          "quantity": 100
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_df"
+    },
+    {
+      "id": 20230704231436148,
+      "name": "Air Jordan 1 Elevate High SE",
+      "brand_id": "NIKE",
+      "price": 3560000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "4ec02d15-cdf2-4463-a07b-1b37941a75a6-removebg-preview.png",
+      "imgs": [
+        "7c9a75af-b951-4aee-a923-746ecea8ba9c.webp",
+        "55209904-9225-465c-83fd-1455e5c22240.webp",
+        "9565fbe4-015b-4e81-8e91-4fab41a61bb4.webp"
+      ],
+      "description": "It might not be banned on court anymore, but the Air Jordan 1 continues to break new ground. Inspired by one of the original '85 colorways, this edition's lifted silhouette celebrates how gracefully the icon has aged over time. Think of it like the AJ1's cool younger cousin—a little taller, a little bolder, but unmistakably part of the same legendary family tree.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity":0
+        },
+        {
+          "size": "37",
+          "quantity": 111
+        },
+        {
+          "size": "38",
+          "quantity": 111
+        },
+        {
+          "size": "39",
+          "quantity": 111
+        },
+        {
+          "size": "40",
+          "quantity": 111
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity": 111
+        }
+      ],
+      "BC_color": "color_16"
+    },
+    {
+      "id": 2023070613195887,
+      "name": "Nike Killshot 2 Leather",
+      "brand_id": "NIKE",
+      "price": 2779000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "i1-3ad4c993-d4c1-4db8-908d-7b2828afd92b-removebg-preview.png",
+      "imgs": [
+        "i1-5f3c5101-dd9c-41e7-b681-c5375cff2910.webp",
+        "killshot-2-leather-shoe-DqWZ4j.png"
+      ],
+      "description": "Inspired by the original low-profile tennis shoe, the Nike Killshot 2 updates the upper with a variety of textured leathers to create a fresh look. From soft suedes to smooth leathers with the perfect sheen, it's court-side attitude with a modern touch. To prove you're on top, the rubber gum sole adds the cherry on bottom.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity":0
+        },
+        {
+          "size": "37",
+          "quantity": 123
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 111
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity": 222
+        },
+        {
+          "size": "42",
+          "quantity": 222
+        },
+        {
+          "size": "43",
+          "quantity": 111
+        }
+      ],
+      "BC_color": "color_8"
+    },
+    {
+      "id": 20230706132626424,
+      "name": "Air Jordan 1 Zoom CMFT 2",
+      "brand_id": "NIKE",
+      "price": 4259000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "air-jordan-1-zoom-cmft-2-shoes-nX8Qqx-removebg-preview.png",
+      "imgs": [
+        "7851e817-78b1-4969-ba7d-cae16f2976b3.webp",
+        "cffaacb9-d486-4cc8-9063-aff3ad1299d1.webp",
+        "c4e1fc3e-c5d8-4238-902b-00297619250f.webp"
+      ],
+      "description": "Premium suede and Jordan Brand's signature Formula 23 foam come together to give you an extra luxurious (and extra cosy) AJ1. You don't need to play \"either or\" when it comes to choosing style or comfort with this one—which is nice, 'cause you deserve both.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 111
+        },
+        {
+          "size": "37",
+          "quantity": 111
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 123
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_16"
+    },
+    {
+      "id": 2023070613356258,
+      "name": "Jordan One Take 4 PF",
+      "brand_id": "NIKE",
+      "price": 2929000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "7c6d2fe1-bc70-4cbd-9b90-4febdaf38c0b-removebg-preview.png",
+      "imgs": [
+        "89c83d89-84bf-434c-9d8a-59b25b4cead1.webp",
+        "f119bd0f-f5ea-4a78-ba25-bbd220220b19.webp",
+        "jordan-one-take-4-pf-shoes-cdsVn1.jpg"
+      ],
+      "description": "Get that speed you need, just like Russ. Inspired by Russell Westbrook's latest signature shoe, the outsole of the Jordan One Take 4 wraps up nearly to the midsole so you can start, stop or change direction in an instant. Meanwhile, energy-returning Zoom Air cushioning in the forefoot keeps you going (and going and going).",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 53
+        },
+        {
+          "size": "37",
+          "quantity":0
+        },
+        {
+          "size": "38",
+          "quantity": 22
+        },
+        {
+          "size": "39",
+          "quantity":0
+        },
+        {
+          "size": "40",
+          "quantity": 23
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity": 35
+        },
+        {
+          "size": "43",
+          "quantity": 15
+        }
+      ],
+      "BC_color": "color_4"
+    },
+    {
+      "id": 20230706134210850,
+      "name": "Air Jordan Legacy 312",
+      "brand_id": "NIKE",
+      "price": 4539000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "d93758d2-8a48-4fed-a951-8e63e94311a2-removebg-preview.png",
+      "imgs": [
+        "5080f2ec-1d57-4fa7-8660-c1e291a87db4.webp",
+        "4f30d377-fad6-4230-a2c0-8ba3d8b1373e.webp",
+        "b0e7fabd-a99b-4e08-9f2c-93197e012181.webp"
+      ],
+      "description": "The Legacy 312 was designed as a collage of iconic Air Jordan elements and this version is no different. What's new here are the colours: luminous, blooming jewel tones grounded in light neutrals. Sapphire and University Red come through big and bold, while Fossil Stone and Light Bone keep everything in check. And that speckled heel, with its multicolour mosaic? Now that's a detail to love.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 23
+        },
+        {
+          "size": "37",
+          "quantity":0
+        },
+        {
+          "size": "38",
+          "quantity": 100
+        },
+        {
+          "size": "39",
+          "quantity": 64
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity": 53
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_2"
+    },
+    {
+      "id": 2023070613491319,
+      "name": "Nike Blazer Low '77 Jumbo",
+      "brand_id": "NIKE",
+      "price": 2779000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "861b306f-bc46-402a-8b4a-0c1aaa97356c-removebg-preview.png",
+      "imgs": [
+        "2f021f0d-27ba-4aa1-809b-5d6bf5a492c7.webp",
+        "8d100317-e7fa-4ff8-b830-c043ee1cec94.webp",
+        "913219f9-160d-45a9-beb8-b57a2bc02a1f.webp",
+        "adab003d-61a2-401d-8a86-1b9551698321.webp"
+      ],
+      "description": "They say, \"Don't fix what works\". We say, \"Perfect it\". The hoops-icon-turned-wardrobe-superstar gets rethought with an oversized Swoosh, thick stitching and jumbo laces. It's classic simplicity meets big and bold—no wonder it's been praised by the streets since '77.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity":0
+        },
+        {
+          "size": "37",
+          "quantity": 222
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 23
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity": 23
+        },
+        {
+          "size": "42",
+          "quantity": 2
+        },
+        {
+          "size": "43",
+          "quantity": 12
+        }
+      ],
+      "BC_color": "color_8"
+    },
+    {
+      "id": 20230706135558270,
+      "name": "Nike Air Force 1 High '07 LX",
+      "brand_id": "NIKE",
+      "price": 4259000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "air-force-1-high-07-lx-shoes-wb31gJ-removebg-preview.png",
+      "imgs": [
+        "air-force-1-high-07-lx-shoes-wb31gJ (1).jpg",
+        "air-force-1-high-07-lx-shoes-wb31gJ.jpg"
+      ],
+      "description": "50 years after the birth of the genre, hip-hop is still influencing streetwear. Nike shoes have always been an integral part of this culture—both influencing and being influenced by iconic musicians, artists and fans. Celebrate half a century of art and culture with platinum and gold records on your soles and metallic grey details on the upper to match. Lace up and get spinning.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 200
+        },
+        {
+          "size": "37",
+          "quantity": 100
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 245
+        },
+        {
+          "size": "40",
+          "quantity": 12
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_df"
+    },
+    {
+      "id": 2023070614314261,
+      "name": "Chuck Taylor All Star Classic",
+      "brand_id": "CONVERSE",
+      "price": 1500000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "3j231_a_107x1-removebg-preview.png",
+      "imgs": [
+        "3-8.jpg",
+        "5.jpg",
+        "4-1.jpg"
+      ],
+      "description": "Thiết kế cổ điển của Converse Chuck 70s với tone đen huyền thoại hiện đang được các bạn trẻ săn đón liên tục. Với sự thay đổi ở phần đế giày được phủ bóng và làm cao hơn, logo nền đen đặc trưng của dòng Chuck 70s mang đến điểm nhấn cho đôi giày. Chất vải Canvas dày, nhẹ ở phiên bản cổ cao giúp người dùng có được sự thoải mái, từng đường kim mũi chỉ được chăm chút tỉ mỉ hơn rất nhiều.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 111
+        },
+        {
+          "size": "37",
+          "quantity":0
+        },
+        {
+          "size": "38",
+          "quantity": 111
+        },
+        {
+          "size": "39",
+          "quantity":0
+        },
+        {
+          "size": "40",
+          "quantity": 34
+        },
+        {
+          "size": "41",
+          "quantity": 221
+        },
+        {
+          "size": "42",
+          "quantity": 2
+        },
+        {
+          "size": "43",
+          "quantity": 34
+        }
+      ],
+      "BC_color": "color_df"
+    },
+    {
+      "id": 202307061495417,
+      "name": "Vans UA Old Skool Platform",
+      "brand_id": "VANS",
+      "price": 1755000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "VN0A3B3UY28_1-650x650-removebg-preview.png",
+      "imgs": [
+        "VN0A3B3UY28_2-650x650.jpg",
+        "VN0A3B3UY28_3-650x650.jpg",
+        "VN0A3B3UY28_4-650x650.jpg"
+      ],
+      "description": "Vans Platform là một bước tiến vượt bậc so với các thiết kế cổ điển, vẫn giữ vững những giá trị thương hiệu nhưng lại nâng cấp với bộ đế cao và dày dặn làm nên xu hướng. BST là một sự sáng tạo đột phá với điểm mới như cổ giày thấp và gọn nhẹ, thiết kế cân bằng hài hòa giữa trọng lượng và kiểu dáng, đệm lót Ortholite êm mềm. Đây chính là cầu nối cho sự kết hợp giữa phong cách đơn giản và đề cao sự thoải mái.",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 64
+        },
+        {
+          "size": "37",
+          "quantity": 15
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 35
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity": 73
+        },
+        {
+          "size": "43",
+          "quantity": 23
+        }
+      ],
+      "BC_color": "color_df"
+    },
+    {
+      "id": 2023070713489279,
+      "name": "fsdfsfsdf",
+      "brand_id": "NIKE",
+      "price": 3450000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "0a906c24-211e-45db-9bdc-0f7e390d1262-removebg-preview.png",
+      "imgs": [
+        "2a1a23f3ba7c460a95acae7b012e036e_9366.webp",
+        "2a7691e4-bff6-423e-aa5e-7dc264114e34-removebg-preview.png",
+        "03a8d2fc-8413-49e9-a3a6-989ccf9346f7.webp",
+        "3j231_a_107x1-removebg-preview.png",
+        "2a7691e4-bff6-423e-aa5e-7dc264114e34-removebg-preview.png",
+        "0e7fc8f3-76b7-4631-b147-4dad4b1ff241-removebg-preview.png",
+        "2a1a23f3ba7c460a95acae7b012e036e_9366.webp"
+      ],
+      "description": "erertert",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 666
+        },
+        {
+          "size": "37",
+          "quantity": 55
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 77
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_df"
+    },
+    {
+      "id": 2023070713489355,
+      "name": "fsdfsfsdf",
+      "brand_id": "NIKE",
+      "price": 3450000,
+      "type":"Sneaker",
+      "discount_id": 0,
+      "img": "0a906c24-211e-45db-9bdc-0f7e390d1262-removebg-preview.png",
+      "imgs": [
+        "2a1a23f3ba7c460a95acae7b012e036e_9366.webp",
+        "2a7691e4-bff6-423e-aa5e-7dc264114e34-removebg-preview.png",
+        "03a8d2fc-8413-49e9-a3a6-989ccf9346f7.webp",
+        "3j231_a_107x1-removebg-preview.png",
+        "2a7691e4-bff6-423e-aa5e-7dc264114e34-removebg-preview.png",
+        "0e7fc8f3-76b7-4631-b147-4dad4b1ff241-removebg-preview.png",
+        "2a1a23f3ba7c460a95acae7b012e036e_9366.webp"
+      ],
+      "description": "erertert",
+      "inventory": [
+        {
+          "size": "36",
+          "quantity": 666
+        },
+        {
+          "size": "37",
+          "quantity": 55
+        },
+        {
+          "size": "38",
+          "quantity":0
+        },
+        {
+          "size": "39",
+          "quantity": 77
+        },
+        {
+          "size": "40",
+          "quantity":0
+        },
+        {
+          "size": "41",
+          "quantity":0
+        },
+        {
+          "size": "42",
+          "quantity":0
+        },
+        {
+          "size": "43",
+          "quantity":0
+        }
+      ],
+      "BC_color": "color_df"
+    }
+  ],
+  "orders": [
+   
+  ]
+ 
+}
